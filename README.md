@@ -16,9 +16,9 @@ The final report includes six themed pages, each exploring booking and cancellat
 6. **Insights** - summary and actionable recommendations
 
 ## View the live dashboard: 
-👉 [live dashboard link here](https://app.powerbi.com/view?r=eyJrIjoiNjU4ZDc4N2UtYWJjZS00NzU0LWE4ZDUtMjRiMTUxYzMyMzUwIiwidCI6IjE1YzIyNjQ2LTU5M2YtNDMxOC04NTYzLTMwZmU5ZmRmMDdjZSJ9)
+👉 [Live interactive dashboard link here](https://app.powerbi.com/view?r=eyJrIjoiNjU4ZDc4N2UtYWJjZS00NzU0LWE4ZDUtMjRiMTUxYzMyMzUwIiwidCI6IjE1YzIyNjQ2LTU5M2YtNDMxOC04NTYzLTMwZmU5ZmRmMDdjZSJ9)
 
-Preview of each page:
+Static preview of each page:
 
 | Overview | Timeline |
 |--------|--------|
@@ -89,6 +89,7 @@ By balancing these two approaches, the hotel can both protect revenue from predi
 
 ### Technologies used:
 - **SQL Server** - data cleaning and exploratory analysis
+  
   See full SQL here: [SQL scripts](./sql)   
 - **Power BI Desktop** - interactive report design, visual storytelling  
 

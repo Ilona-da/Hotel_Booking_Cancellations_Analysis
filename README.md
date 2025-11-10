@@ -20,15 +20,15 @@ The final report includes six themed pages, each exploring booking and cancellat
 
 Preview of each page:
 
-| Page 1 | Page 2 |
+| Overview | Timeline |
 |--------|--------|
 | ![Page 1](powerbi/preview/report-1.png) | ![Page 2](powerbi/preview/report-2.png) |
 
-| Page 3 | Page 4 |
+| Guests | Services |
 |--------|--------|
 | ![Page 3](powerbi/preview/report-3.png) | ![Page 4](powerbi/preview/report-4.png) |
 
-| Page 5 | Page 6 |
+| Finances | Insights |
 |--------|--------|
 | ![Page 5](powerbi/preview/report-5.png) | ![Page 6](powerbi/preview/report-6.png) |
 
@@ -88,7 +88,8 @@ By balancing these two approaches, the hotel can both protect revenue from predi
 ## Technical summary
 
 ### Technologies used:
-- **SQL Server** - data cleaning and exploratory analysis  
+- **SQL Server** - data cleaning and exploratory analysis
+  See full SQL here: [SQL scripts](./sql)   
 - **Power BI Desktop** - interactive report design, visual storytelling  
 
 ### Repository Structure

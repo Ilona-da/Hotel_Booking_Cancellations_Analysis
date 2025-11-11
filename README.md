@@ -19,7 +19,7 @@ The final report includes six themed pages, each exploring booking and cancellat
 6. **Insights** - summary and actionable recommendations
 
 ## View the live dashboard: 
-👉 [Live interactive dashboard link here](https://app.powerbi.com/view?r=eyJrIjoiNjU4ZDc4N2UtYWJjZS00NzU0LWE4ZDUtMjRiMTUxYzMyMzUwIiwidCI6IjE1YzIyNjQ2LTU5M2YtNDMxOC04NTYzLTMwZmU5ZmRmMDdjZSJ9)
+👉 [Live interactive dashboard link here](https://app.powerbi.com/view?r=eyJrIjoiYzJhMjcwMDktYWVjNi00ZTg2LWJmY2YtMTZjMzc4OTZmOThjIiwidCI6IjE1YzIyNjQ2LTU5M2YtNDMxOC04NTYzLTMwZmU5ZmRmMDdjZSJ9)
 
 Static preview of each page:
 

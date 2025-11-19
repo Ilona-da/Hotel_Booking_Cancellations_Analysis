@@ -93,7 +93,7 @@ By balancing these two approaches, the hotel can both protect revenue from predi
 ### Technologies used:
 - **MS SQL Server** - data cleaning and exploratory analysis
   
-  See full SQL here: [SQL scripts](./sql)   
+  See full SQL here: [SQL scripts](./sql) with descriptive comments  
 - **Power BI** - interactive report design, visual storytelling  
 
 ### Repository Structure

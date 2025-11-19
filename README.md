@@ -4,9 +4,9 @@
 # Hotels Cancellations Trends Analysis
 
 ## Project Overview  
-At the start of the analyzed period (July 2015 - December 2016), the two largest hotels of the Tardigrade Inn chain introduced online booking cancellations. Management and revenue teams wanted to understand cancellation patterns, quantify their financial impact, and identify actionable ways to reduce losses.
+At the start of the analyzed period **(July 2015 - December 2016)**, the **two largest hotels of the Tardigrade Inn chain** introduced online booking cancellations. Management and revenue teams wanted to understand cancellation patterns, quantify their financial impact, and identify actionable ways to reduce losses.
 
-This analysis aimed to explore how online cancellations affected booking behavior and revenue, and to provide clear, actionable insights for operational and marketing decision-making. Data was prepared and explored in SQL (details in the SQL folder), with key findings visualized in a six-page interactive Power BI report.
+This analysis aimed to explore how online cancellations affected booking behavior and revenue in given timeframe, and to provide clear, actionable insights for operational and marketing decision-making. Data was prepared and explored in SQL (details in the SQL folder), with key findings visualized in a six-page interactive Power BI report.
 
 ## Power BI Report and Findings
 The final report includes six themed pages, each exploring booking and cancellation dynamics from a different perspective:
@@ -100,9 +100,10 @@ By balancing these two approaches, the hotel can both protect revenue from predi
 - `data/` - folder containing raw dataset:
   - `raw_data.csv` - source data file
 - `sql/` - folder containing SQL scripts:
-  - `data_cleaning.sql` - SQL script for data cleaning
+  - `data_preparing.sql` - SQL script for data cleaning
   - `exploratory_data_analysis.sql` - SQL queries for exploratory data analysis
-- `powerbi/` - folder with Power BI file:
+  - `README.md` - SQL scripts documentation
+- `powerbi/` - folder with Power BI files:
   - `report.pbix` - fully interactive report file
   - `preview/` - image preview of each report page
 - `README.md` - project documentation
